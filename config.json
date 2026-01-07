@@ -1,0 +1,9 @@
+{
+  "CLAIM_TOKEN": "", // urlyi cekcek token
+  "DELETE_TOKEN": "", // admin ytsi bekleyip silcek token
+  "claimerpassword": "", // urlyi cekcek token sifre
+  "deletepassword": "", // urlyi silcek token sifrre
+  "SERVER_ID": "", // urlnin cekilecegi sw
+  "VANITY_URL": "", // silincek url
+  "WATCH_ID": "1407843001627181260" // tasıncak sunucu
+}
